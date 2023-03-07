@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div align="center">
   <div>Hi there!👋🏻 My name is Isis and I'm a front-end developer and engineer.</div>
   <div>Graduated from <a href="https://www.fib.upc.edu/en">FIB (UPC)</a> in <a href="https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering">Informatics Engineering</a> with an <a href="https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering/curriculum/specializations/information-technologies">Information Technology (IT)</a> specialization.</div>
-<div>Working at Adaptive Financial Consulting. </div>
+<div>Working as a front-end developer at <a href="https://weareadaptive.com/">Adaptive Financial Consulting</a>.</div>
 <div>📍Barcelona</div>
 </div>
 
